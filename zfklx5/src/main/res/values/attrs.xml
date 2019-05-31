@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ZfView">
+        <attr name="borderColor" format="color|reference" />
+        <attr name="borderStroke" format="dimension|reference" />
+        <attr name="divideLineColor" format="color|reference" />
+        <attr name="divideLineStroke" format="dimension|reference" />
+        <attr name="circleColor" format="color|reference" />
+        <attr name="circleRadius" format="dimension|reference" />
+        <attr name="maxCount" format="integer"/>
+    </declare-styleable>
+
+
+    <!-- 授权密码输入框 -->
+    <declare-styleable name="CustomPasswordInputView">
+        <attr name="pwdcircleColor" format="color" />
+        <attr name="pwdCircleRadius" format="dimension" />
+        <attr name="strokeColor" format="color" />
+        <attr name="devideLineColor" format="color" />
+        <attr name="cusmaxCount" format="integer" />
+        <attr name="cusdivideLineWidth" format="dimension" />
+        <attr name="cusdivideLineColor" format="color" />
+        <attr name="rectAngle" format="dimension" />
+    </declare-styleable>
+</resources>

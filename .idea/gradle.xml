@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/chtoolbar" />
+            <option value="$PROJECT_DIR$/cjssplx3" />
+            <option value="$PROJECT_DIR$/dispatchevent" />
+            <option value="$PROJECT_DIR$/gifplay" />
+            <option value="$PROJECT_DIR$/hblx" />
+            <option value="$PROJECT_DIR$/mffmpeg" />
+            <option value="$PROJECT_DIR$/movelx2" />
+            <option value="$PROJECT_DIR$/pingmushipei" />
+            <option value="$PROJECT_DIR$/pmsplx4" />
+            <option value="$PROJECT_DIR$/retrofitDemo" />
+            <option value="$PROJECT_DIR$/zfklx5" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
