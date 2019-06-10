@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bsdiffdemo" />
             <option value="$PROJECT_DIR$/chtoolbar" />
             <option value="$PROJECT_DIR$/cjssplx3" />
             <option value="$PROJECT_DIR$/dispatchevent" />
@@ -16,6 +17,7 @@
             <option value="$PROJECT_DIR$/hblx" />
             <option value="$PROJECT_DIR$/mffmpeg" />
             <option value="$PROJECT_DIR$/movelx2" />
+            <option value="$PROJECT_DIR$/myplay" />
             <option value="$PROJECT_DIR$/pingmushipei" />
             <option value="$PROJECT_DIR$/pmsplx4" />
             <option value="$PROJECT_DIR$/retrofitDemo" />

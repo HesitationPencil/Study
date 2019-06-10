@@ -124,3 +124,4 @@ void drawFrame(GifFileType *gifFileType, GifBean *gifBean, AndroidBitmapInfo inf
         px = (int *) ((char *) px + info.stride);
     }
 }
+
