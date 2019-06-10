@@ -7,7 +7,7 @@ extern int p_main(int argc, const char *argv[]);
 
 extern "C"
 JNIEXPORT void JNICALL
-Java_com_example_administrator_bsdiffwangyi_BsPatcher_bsPatch(JNIEnv *env, jclass type,
+Java_com_lx_bsdiffdemo_BsPatcher_bsPatch(JNIEnv *env, jclass type,
                                                               jstring oldApk_, jstring patch_,
                                                               jstring output_) {
     const char *oldApk = env->GetStringUTFChars(oldApk_, 0);
